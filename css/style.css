@@ -1,0 +1,117 @@
+.linha {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+/*gerais*/
+.container{
+    padding: 70px 0;
+  }
+  p, li {
+    color: #c2c5c7;
+    font-size: 14px;
+  }
+  
+   /*barranavegação*/
+  header, .navbar{
+    background-color: #004085;
+  }
+  
+  #nav-container{
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  
+  #navbar-links{
+    margin-right: 25px;
+    color: #004085;
+  }
+  
+  #logo{
+    color:#fff;
+    text-decoration: none;
+  }
+  
+  #home-menu{
+    color: #004085;
+    text-decoration: none;
+  }
+  
+  #portifolio-menu{
+    color: #004085;
+    text-decoration: none;
+  }
+  
+  #contact-menu{
+    color: #004085;
+    text-decoration: none;
+  }
+  
+  #home-botao{
+    margin-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+  }
+  
+  #portifolio-botao{
+    margin-right: 10px;
+  }
+  
+  #contact-botao{
+    margin-right: 10px;
+  }
+  
+  /*lider*/
+  
+  .container-fluid{
+    padding: 0;
+  }
+  
+  #mainSlider .carousel-inner, #mainSlider .carousel-item  {
+    height: 95vh;
+  }
+  
+  #mainSlider .carousel-caption {
+    top: 50%;
+  }
+  
+  #mainSlider .carousel-caption h2 {
+    font-size: 50px;
+    margin-bottom: 30px;
+  }
+  
+  #mainSlider .carousel-caption p {
+    font-size: 22px;
+    font-weight: 300;
+    margin-bottom: 100px;
+    color: #ffffff;
+    
+  }
+
+  #carouselExampleIndicators{
+
+  }
+
+  .rodape {
+    font-size: 5px;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+
+  }
+
+  .titulo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .rodape-nome {
+    padding-right: 5px;
+  }
+
+  #naveg{
+    padding-top: 0;
+  }

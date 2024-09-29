@@ -1,0 +1,67 @@
+#naveg{
+    background-color: #004085;
+}
+
+header, .navbar{
+    background-color: #004085;
+
+}
+
+#home-botao{
+    margin-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-decoration: none;
+}
+
+#portifolio-botao{
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+#logo{
+    color:#fff;
+    text-decoration: none;
+}
+
+#portifolio-menu{
+    color: #004085;
+    text-decoration: none;
+  }
+
+  #home-menu{
+    color: #004085;
+    text-decoration: none;
+  }
+
+  .linha {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.linhaa {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.htm{
+    margin-top: 10%;    
+}
+
+.py{
+    margin-top: 10%; 
+}
+
+.bi1{
+    display: flex;
+    margin-top: 10%;
+    left: 30%;
+    
+}
+
+.bii{
+    display: flex;
+    margin-top: 60%;
+    width: 90%;
+    left: 180%;
+}

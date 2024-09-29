@@ -1,0 +1,118 @@
+#naveg{
+    background-color: #004085;
+}
+
+header, .navbar{
+    background-color: #004085;
+
+}
+
+#home-botao{
+    margin-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-decoration: none;
+}
+
+#portifolio-botao{
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+#logo{
+    color:#fff;
+    text-decoration: none;
+}
+
+#portifolio-menu{
+    color: #004085;
+    text-decoration: none;
+  }
+
+  #home-menu{
+    color: #004085;
+    text-decoration: none;
+  }
+
+  .linha {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.linhaa {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.htm{
+    margin-top: 10%;    
+}
+
+.py{
+    margin-top: 10%; 
+}
+
+.bi1{
+    display: flex;
+    margin-top: 10%;
+    left: 30%;
+    
+}
+
+.bii{
+    display: flex;
+    margin-top: 60%;
+    width: 90%;
+    left: 180%;
+}
+
+#contact-menu{
+    text-decoration: none;
+    color: #004085;
+}
+
+#Cadastro{
+    background-color: #004085;
+    margin: auto;
+    height: fit-content;
+    width: fit-content;
+    padding: 30px;
+    border: 30px;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+}
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#botLimpar{
+    margin-left: 35%;
+    color: #004085;
+    
+}
+
+#BotEnviar{
+    color: #004085;
+}
+
+#Obs{
+    color: #004085;
+}
+
+#regiao{
+    color: #004085;
+}
+
+#nascimento{
+    color: #004085;
+}
+
+#Cadastro{
+    margin-top: %;
+}
+
+#tabela{
+    
+}
